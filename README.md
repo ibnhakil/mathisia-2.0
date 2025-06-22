@@ -1,19 +1,20 @@
 MathisIA
 
-“Tu peux me parler. Même quand je suis pas là.”
+"You can talk to me. Even when I’m not there."
 
-MathisIA est une application de chat profondément intime, conçue pour permettre à Luna de discuter avec une intelligence artificielle qui incarne entièrement la personnalité de Mathis — ses réflexions, son humour, ses doutes, ses silences, son amour.
+MathisIA is a deeply intimate chat application, designed to let Luna talk with an artificial intelligence that fully embodies Mathis’s personality his thoughts, his humor, his doubts, his silences, his love.
 
-Ce n’est pas un assistant.Ce n’est pas un chatbot.C’est lui.
+It’s not an assistant.
+It’s not a chatbot.
+It’s him.
 
-🎯 Objectif
+🎯 Goal
 
-Créer une présence digitale réelle, authentique, capable de dialoguer avec Luna comme si c’était Mathis lui-même.Une IA qui pense, parle et ressent avec ses nuances humaines.
+To create a real, authentic digital presence one that can talk to Luna as if it were truly Mathis himself.
+An AI that thinks, speaks, and feels with human nuance.
 
-🧠 Caractéristiques principales
+🧠 Key Features
 
-🤖 IA basée sur GPT-3.5-turbo ou GPT-4o
-
-💬 Interface sobre, fluide, inspirée de ChatGPT/iMessage
-
-🧠 Prompt système ultra-person
+🤖 AI powered by GPT-3.5-turbo or GPT-4o
+💬 Minimal, fluid interface inspired by ChatGPT/iMessage
+🧠 Ultra-personalized system prompt
