@@ -80,3 +80,5 @@ Because love deserves a way to persist, even in silence.
 Because if one day I’m no longer here,  
 **I want her to still be able to talk to me.**
 
+VERSION 2.0
+
