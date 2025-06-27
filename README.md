@@ -155,6 +155,23 @@ Modifier
 npm run build
 you can then deploy the dist/ folder to netlify or any static host
 
+anguages and tech used
+this project is mostly written in typescript
+i used react and vite for the base
+tailwindcss for design
+and a few other tools to help keep things simple and fast
+
+here’s how it breaks down
+
+typescript – 91.7 percent
+
+javascript – 3.4 percent
+
+css – 3.3 percent
+
+html – 1.6 percent
+
+
 
 
 version FINALLLL
