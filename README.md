@@ -109,4 +109,52 @@ because love deserves to last even in silence
 because if one day i’m not here anymore
 i want her to still be able to talk to me
 
+
+but how to use mathisia
+you need your own openai api key to use this project
+it’s private by design, nothing works without the key
+
+step 1 – clone the project
+bash
+Copier
+Modifier
+git clone https://github.com/your-username/mathisia.git
+cd mathisia
+step 2 – install dependencies
+bash
+Copier
+Modifier
+npm install
+step 3 – create your .env file
+create a file named .env in the root of the project
+copy the content from .env.example and paste your own openai api key
+
+env
+Copier
+Modifier
+VITE_OPENAI_API_KEY=your-key-here
+you can get your key at https://platform.openai.com/account/api-keys
+
+step 4 – start the app
+bash
+Copier
+Modifier
+npm run dev
+then open your browser and go to
+http://localhost:5173
+
+you’ll see a chat interface
+enter your openai key again inside the app
+this keeps it private in local storage
+then start talking to the ai
+
+optional – build for production
+bash
+Copier
+Modifier
+npm run build
+you can then deploy the dist/ folder to netlify or any static host
+
+
+
 version FINALLLL
