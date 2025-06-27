@@ -155,7 +155,7 @@ Modifier
 npm run build
 you can then deploy the dist/ folder to netlify or any static host
 
-anguages and tech used
+languages and tech used
 this project is mostly written in typescript
 i used react and vite for the base
 tailwindcss for design
