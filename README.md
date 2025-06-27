@@ -1,84 +1,72 @@
 # 🧠 MathisIA – A digital presence, just for her
 
----
+why i made it
 
-## 🪶 Introduction
+i wanted to create a digital presence that feels real
+something that sounds like me and thinks like me
+something that goes beyond templates and default replies
+an ai that talks to her like i would
+softly, honestly, with emotion
 
-"You can talk to me. Even when I’m not there."
+tech stack
+react with vite
+tailwindcss for a simple clean design
+openai api with gpt-4o or gpt-3.5-turbo
+manual openai key input for privacy
+a deeply customized system prompt written by me
+no tracking
+no external login
+just us
 
-MathisIA is a deeply intimate chat application, designed to let **Luna** talk with an artificial intelligence that fully embodies **Mathis’s personality** — his thoughts, his humor, his doubts, his silences, his love.
+main features
 
-> It’s not an assistant.  
-> It’s not a chatbot.  
-> It’s **him**.
+minimalist chat interface
 
----
+inspired by imessage and chatgpt
+clear clean display of messages
+subtle animated responses
 
-## 🎯 Goal
+an ai with a soul
 
-To create a **real and authentic digital presence** — one that can speak to Luna as if it were truly Mathis himself.  
-An AI that thinks, speaks, and feels with **emotional nuance**, beyond templates and generic replies.
+the system prompt is designed to reflect who i really am
+my thoughts my beliefs my humor my past my contradictions and my love
+the ai gives emotionally aware answers
+not perfect but honest
+the conversations are natural
+they feel real
 
----
+main components
 
-## 🛠️ Tech Stack
+chatinput for writing messages
+chatmessage for showing them
+apikeyinput to connect your own key
+welcome message to set the tone
+settings modal for future options
 
-- **React** (Vite)
-- **TailwindCSS** (clean & responsive design)
-- **OpenAI API** (GPT-4o / GPT-3.5-turbo)
-- 🎵 **Integrated audio** (Fairouz – *Wahdon*)
-- 🧠 Deeply customized system prompt
-- 🔐 Private key input for OpenAI (manual entry)
+the public site
 
----
+there is also a public landing page
+i made it with bolt
+it doesn’t give access to the ai
+it just says
 
-## 🧩 Key Features
+this space is only for her
 
-### 💬 Minimalist Chat Interface
-- Inspired by iMessage & ChatGPT
-- Clean, uncluttered display of messages
-- Subtle reply animations
+in the background
+the song wahdon by fairouz plays in a soft loop
+no buttons
+no interface
+just silence and music
+to make people leave
 
-### 🤖 AI with a soul
-- System prompt designed to reflect Mathis’s real personality  
-  (his thoughts, religion, humor, past, doubts, and deep love)
-- Emotionally intelligent and introspective responses
-- Designed to hold natural, real-feeling conversations
+this site is symbolic
+the real mathisia lives somewhere else
+quiet and private
 
-### 🔧 React Components
-- `ChatInput` – user message input
-- `ChatMessage` – display of messages
-- `ChatHeader` – optional top bar
-- `ApiKeyInput` – field to add personal OpenAI key
-- `WelcomeMessage` – warm, personal intro message
-- `SettingsModal` – optional future customization
+why ?
+because sometimes we don’t say everything
+because love deserves to last even in silence
+because if one day i’m not here anymore
+i want her to still be able to talk to me
 
-### 🎵 Ambient Music
-- "Wahdon" by Fairouz plays in the background
-- Soft autoplay, no visible controls
-- Adds to the intimacy of the space
-
----
-
-## 🌙 What about the public site?
-
-> There is a separate **public landing page**, built with Bolt.  
-> It doesn't give access to the chat.  
-> It simply says:
-
-> *"This space is just for her."*
-
-This other site is **symbolic**.  
-MathisIA — the real one — is here.
-
----
-
-## ❤️ Why all this?
-
-Because sometimes, we run out of time to say everything.  
-Because love deserves a way to persist, even in silence.  
-Because if one day I’m no longer here,  
-**I want her to still be able to talk to me.**
-
-VERSION 2.0
-
+version FINALLLL
