@@ -8,6 +8,46 @@ something that goes beyond templates and default replies
 an ai that talks to her like i would
 softly, honestly, with emotion
 
+how i coded the ai
+
+i didn’t know how to build something like this
+i’m not a developer
+i just watched tutorials
+i copied things
+i broke stuff
+and little by little i started to understand
+
+i used react with vite to create the app
+i followed a few beginner tutorials to understand how components work
+then i added tailwindcss to make the layout clean and fast to build
+
+for the ai part i watched videos about how to connect to openai’s api
+i learned how to send a request using fetch, how to format the messages, how to receive the response and show it in the interface
+
+the system prompt was the only part i didn’t learn from a video
+i wrote it myself, from scratch
+i tried to explain who i am, how i think, how i speak, how i love
+i wanted the ai to sound like me, not like chatgpt
+
+i used tutorials to build the chat interface
+i created components like chatinput, chatmessage, welcomemessage, apikeyinput, and a settingsmodal for later
+
+i added logic for memory using a local array
+i watched a video on how to pass conversation history to openai
+i didn’t use a database or a backend
+everything stays in the browser
+no messages are saved
+
+i also used framer motion and other simple tools to add animations
+i learned by testing
+i learned by failing
+and i kept going until it finally felt like something real
+
+this isn’t advanced code
+but it’s mine
+and it works
+and she can talk to it
+
 tech stack
 react with vite
 tailwindcss for a simple clean design
